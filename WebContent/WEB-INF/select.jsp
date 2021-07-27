@@ -76,7 +76,7 @@
  </tr>
  <tr>
  <td>写真</td>
- <td><input type="text" name="insertPicture" /></td>
+ <td><input type="text" name="updatePicture" /></td>
  </tr>
  <tr>
  <td></td>
